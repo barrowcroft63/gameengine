@@ -1,0 +1,22 @@
+#  Game information
+
+GAME_TITLE = "TILE"
+GAME_VERSION = "VERSION"
+GAME_AUTHOR = "AUTHOR"
+GAME_DATE = "DATE"
+GAME_NAME = "NAME"
+
+#  pygame
+
+FPS = 80
+SCREEN_SIZE = (800, 600)
+
+#  Game states
+
+GAME_STATE = "State1"
+
+GAME_STATES = [
+    GAME_STATE,
+]
+
+INITIAL_STATE = GAME_STATE
